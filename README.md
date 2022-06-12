@@ -4,7 +4,7 @@
 
 
 ## Sample 1
-![StyleTransfer](https://user-images.githubusercontent.com/79300456/173230150-ca59dae0-78fd-424c-9dc6-b9f548155465.jpg)
+![StyleTransfer](https://user-images.githubusercontent.com/79300456/173231144-07160c7d-7b06-44d9-8cce-136fb9f6457a.jpg)
 ## Sample 2
-![StyleTransfer2](https://user-images.githubusercontent.com/79300456/173230167-56ca76aa-587a-4978-8a7b-c067acfeef9b.jpg)
+![StyleTransfer2 (1)](https://user-images.githubusercontent.com/79300456/173231169-0cc65e6f-23f3-403d-ab97-b18d572cb7b7.jpg)
 
